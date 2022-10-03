@@ -7,3 +7,5 @@
 **Note:** Calculating Lucas is considered an intense CPU work, design your code so it does not block the main event-loop of the master process. 
 
 **Note: Add `node_modules` folder to your `.gitignore` file. You should only push your code along with `package.json` and `package-lock.json`**
+
+**Note: Please submit the homework by `10:00 PM CST`**
